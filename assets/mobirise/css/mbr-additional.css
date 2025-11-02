@@ -963,7 +963,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-v0Rrer5Ysq .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4rem);
+    max-height: calc(98.5vh - 5rem);
   }
 }
 .cid-v0Rrer5Ysq .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1311,7 +1311,7 @@ a {
   }
 }
 .cid-tqJ3oa7HGE {
-  background-image: url("../../../assets/images/teacher.jpg-1560x1040.jpg");
+  background-image: url("../../../assets/images/teacher.jpg-1560x1040.jpeg");
   overflow: hidden;
 }
 .cid-tqJ3oa7HGE .mbr-fallback-image.disabled {
@@ -2389,7 +2389,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.webp");
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-v0RTV6JcYR {
   padding-top: 7rem;
